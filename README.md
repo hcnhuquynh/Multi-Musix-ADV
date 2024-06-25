@@ -13,9 +13,9 @@
 
 - 🎉 [[My Website]](https://hqmt.netlify.app/)
 - 🦸‍♂️ [[Server]](https://discord.gg/cat-curious-1003698094187216898)
-- 🤖 [[My B]](https://dsc.gg/hqmtbot)
+- 🤖 [[My Bot]](https://dsc.gg/hqmtbot)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcnhuquynh&label=Profile%20views&color=6b21ff&style=flat" alt="hcnhuquynh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TienNHM&label=Profile%20views&color=6b21ff&style=flat" alt="TienNHM" /> </p>
 
 -------------
 ## 📫 How to reach me:
@@ -33,7 +33,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
----
+
+-------------
 
 ### Languages and Tools I use:
 
