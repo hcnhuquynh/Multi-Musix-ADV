@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](dsc.gg/reliable-support)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](https://hqmt.netlify.app/)
 
 ## I'm a Student, Developer
 
