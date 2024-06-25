@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](https://hqmt.netlify.app/)
+<p align="center">
+  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+</p>
 
 ## I'm a Student, Developer
 
@@ -8,11 +11,28 @@
 
 ## Links
 
-- 🎉 [[Reliable]](https://dsc.gg/reliable-bot)
+- 🎉 [[My Website]](https://hqmt.netlify.app/)
 - 🦸‍♂️ [[Server]](https://discord.gg/cat-curious-1003698094187216898)
+- 🤖 [[My B]](https://dsc.gg/hqmtbot)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcnhuquynh&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcnhuquynh&label=Profile%20views&color=6b21ff&style=flat" alt="hcnhuquynh" /> </p>
 
+-------------
+## 📫 How to reach me:
+
+<p align="center">
+  </a> 
+  <a href="[https://github.com/TienNHM](https://github.com/HQMTGaming)" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/@HQMT_Gaming" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  </a>
+  <a href="mailto:hoangquocminhthien@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 ---
 
 ### Languages and Tools I use:
