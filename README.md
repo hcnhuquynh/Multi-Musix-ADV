@@ -1,48 +1,48 @@
-#  MULTI-MUSIC BOT BY GlaceYT 
-▶️ simple and powerful multi music bot.
-▶️ consisting of various commands.
-▶️ Still in development you may face minor bugs|
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](dsc.gg/reliable-support)
 
-# 📋 Overview
+## I'm a Student, Developer
 
-The basic or default prefix is "?". You can change the prefix by modifying the `config.json` file.
+- 🥅 **Website** Developer 
+- ⚡ Learning **HTML, CSS, JS**
+- 🏆 Founder of **HQMT Community**
 
-## ✨ Features
+## Links
 
+- 🎉 [[Reliable]](https://dsc.gg/reliable-bot)
+- 🦸‍♂️ [[Reliable Support]](https://dsc.gg/reliable-support)
 
-- **Moderation Commands**: 👮‍♂️ Keep your server under control with powerful moderation tools. Manage members, messages, and maintain a peaceful environment.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alpha5959&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
 
-- **Utility Commands**: 🛠️ Boost your Discord experience with a range of handy utility commands. From server management to user information, we've got you covered.
+---
 
-- **Image Commands**: 📸 Unleash your creativity with a variety of fun and artistic image commands. Transform images, create memes, and have a blast!
+### Languages and Tools I use:
 
-- **Basic Commands**: ✨ Get started with essential commands for everyday Discord use. Greetings, information, and more, all at your fingertips.
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][course]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtube]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][twitter]
 
-- **Fun Commands**: 🎉 Add excitement to your server with entertaining and lighthearted commands. Games, jokes, and surprises await!
+<br />
+<br />
 
-- **Anime Commands**: 🌟 Explore the world of anime with specialized commands. show your expressions through different interactions.
+![](https://discord.c99.nl/widget/theme-3/783661052738011176.png)
 
-## 🛠️ Installation
+---
 
-1. **Create a TOKEN Secret**: Generate a bot token from the Discord Developer Portal and add it to your bot.
-2. **Install Dependencies**: Install all required Node.js modules using the following command:
+</details>
 
-## 📜 Commands
-?help: for available commands.
-?play: plays music.
-?blush : anime gif interaction
-...
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-## 🤝 Contributing [Contact me on Discord]
+  <img align="left" alt="Alpha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha5959&show_icons=true&hide_border=false&title_color=d4a6ff&icon_color=6b21ff&bg_color=09131B&text_color=ffffff&border_color=ff2f32" />
 
-**Contributions to this project are welcome! If you'd like to contribute, follow these steps:**
+</details>
 
-## Join Our Discord: Join our Discord server to connect with the community.
-## Show Your Work: Share your contributions with the community.
-## Bug Fixes: If you encounter any bugs or errors, please notify them.
-## Commit Changes: Commit your changes to your forked repository.
-## Pull Request: Submit a pull request with your changes.
-
-# 📚 Copyright 
-
-All code in this project is authored by GlaceYT. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
+[course]: https://youtu.be/dQw4w9WgXcQ
+[twitter]: https://youtu.be/dQw4w9WgXcQ
+[youtube]: https://youtu.be/dQw4w9WgXcQ
+[webdevplaylist]: https://youtu.be/dQw4w9WgXcQ
+[jsplaylist]: https://youtu.be/dQw4w9WgXcQ
+[cssplaylist]: https://youtu.be/dQw4w9WgXcQ
