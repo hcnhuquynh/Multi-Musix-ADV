@@ -11,7 +11,7 @@
 - 🎉 [[Reliable]](https://dsc.gg/reliable-bot)
 - 🦸‍♂️ [[Reliable Support]](https://dsc.gg/reliable-support)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alpha5959&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hcnhuquynh&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
 
 ---
 
@@ -36,7 +36,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alpha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alpha5959&show_icons=true&hide_border=false&title_color=d4a6ff&icon_color=6b21ff&bg_color=09131B&text_color=ffffff&border_color=ff2f32" />
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
