@@ -9,7 +9,7 @@
 ## Links
 
 - 🎉 [[Reliable]](https://dsc.gg/reliable-bot)
-- 🦸‍♂️ [[Reliable Support]](https://dsc.gg/reliable-support)
+- 🦸‍♂️ [[Server]](https://discord.gg/cat-curious-1003698094187216898)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hcnhuquynh&label=Profile%20views&color=6b21ff&style=flat" alt="Alpha5959" /> </p>
 
